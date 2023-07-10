@@ -1,13 +1,12 @@
 # A program for detecting wave packages in circular waveguide.
 
-(c) Piotr Wrzeciono<sup>1</sup>, Michał Szymański<sup>1</sup>, Hydayatullah Bayat<sup>2</sup>, 2023
+### (c) Piotr Wrzeciono<sup>1</sup>, Michał Szymański<sup>1</sup>, Hydayatullah Bayat<sup>2</sup>, 2023
 
-Institute of Information Technology, Warsaw University of Life Sciences<sup>1</sup>,
-Institute of Civil Engineering, Warsaw University of Life Sciences<sup>2</sup>
-
+### Institute of Information Technology, Warsaw University of Life Sciences<sup>1</sup>, Institute of Civil Engineering, Warsaw University of Life Sciences<sup>2</sup>
 
 
-This program is a scientific project created to detect pulses in an acoustic circular waveguide. We wrote our program in the Octave script language.
+
+This program is a scientific project created to detect pulses in an acoustic circular waveguide. We wrote our program in the Octave script language. Our project is connected to the paper published during Open Seminar in Acoustics 2023.
 
 We organized our program in the following files:
 - signal_power.m
@@ -18,6 +17,8 @@ We organized our program in the following files:
 - searching_for_impulses.m
 - maxima_statistics.m
 - calculation_of_errors_paralell.m
+
+
 
 
 

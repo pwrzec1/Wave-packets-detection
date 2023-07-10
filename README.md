@@ -1,4 +1,4 @@
-# A program for detecting wave packages in circular waveguide.
+# A program for detecting wavepackets in circular waveguide.
 
 ### (c) Piotr Wrzeciono<sup>1</sup>, Michał Szymański<sup>1</sup>, Hydayatullah Bayat<sup>2</sup>, 2023
 

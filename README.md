@@ -18,6 +18,12 @@ We organized our program in the following files:
 - maxima_statistics.m
 - calculation_of_errors_paralell.m
 
+Additionally, the project contains a folder with recordings used in the research. There are made with a sample rate of 192 kHz. The mentioned folder has the following files:
+signal94dB.wav (Signal from the acoustic calibrator 94 dB),
+signal94dB_no_infra.wav (Signal from acoustic calibrator without any infrasounds),
+concrete8cm_impulses.wav (The first Gaussian wavepacket and the first reflection from the concrete end of the circular waveguide),
+concrete8cm_impulses.wav (The wavepackets recorded in the circular waveguide),
+concrete8cm_impulses_no_infra.wav (The same signal as in 'concrete8cm_impulses.wav' but no infrasounds).
 
 
 

@@ -42,8 +42,7 @@ octave calculation_of_errors_paralell.m file1 file2 file3 t1 v1 v2 v3
 
 An example of using the program:
 ```
-octave calculation_of_errors_paralell.m test_signals/concrete8cm_impu
-lses_no_infra.wav test_signals/signal94dB_no_infra.wav result_01.csv 5e-3 0.5 2.0 0.01
+octave calculation_of_errors_paralell.m test_signals/concrete8cm_impulses_no_infra.wav test_signals/signal94dB_no_infra.wav result_01.csv 5e-3 0.5 2.0 0.01
 
 ```
 

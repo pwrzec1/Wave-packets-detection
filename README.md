@@ -35,7 +35,7 @@ The main program is in the file 'calculation_of_errors_paralell.m'. To run this 
 - The step of changing the value of dispersion (v3).
 - This program calculates the measurement's uncertainty for detecting pulses reflected from the concrete end of the waveguide and the speaker.
 
-** To use this program, it is necessary to install the package parallel **
+**To use this program, it is necessary to install the package parallel**
 
 ```
 octave calculation_of_errors_paralell.m file1 file2 file3 t1 v1 v2 v3
